@@ -66,13 +66,3 @@ Contributions are welcome! If you'd like to add your own code snippets, improve 
 This project is open-source and licensed under the MIT License. Feel free to use, modify, and distribute the code as long as proper attribution is given.
 
 ---
-
-# How to Add This Content to Your Repository:
-1. Open a text editor (like Notepad or Visual Studio Code).
-2. Create a new file and name it `README.md`.
-3. Copy the content provided above and paste it into the `README.md` file.
-4. Save the file in the root directory of your repository (where your other project files are).
-5. Follow the git commands to add, commit, and push the file to your GitHub repository.
-
-Let me know if you have any questions or need further assistance!
-
