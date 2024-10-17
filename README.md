@@ -15,7 +15,7 @@ To use or explore the code in this repository, follow these simple steps:
 First, clone this repository to your local machine:
 ```bash
 git clone https://github.com/Robinson7070/Robinsons-AI-Snippets.git
-
+```
 2. Navigate to the Snippet or Project
 Move into the relevant directory to access the specific code snippet or mini-project you are interested in:
 
